@@ -3,7 +3,7 @@
 ## 🔗  Live Site
 👉    
 ## 🔗 Live Interactive Dashboard
-👉  
+👉  https://public.tableau.com/app/profile/akshara.rathod/viz/Akshara_R_EVsDashboard/Dashboard1?publish=yes
 ---
 
 ## 📸 Dashboard Preview
