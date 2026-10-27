@@ -7,7 +7,7 @@
 ---
 
 ## 📸 Dashboard Preview
-👉  
+👉  https://github.com/en25cs3010091-eng/AksharaR-EVs-Marketing-Train/blob/main/DASHBOARDPREVIEW.png
 
 ## 📊 Visualizations Included
 1. *Sales by Manufacturer* - Top performing EV brands.
